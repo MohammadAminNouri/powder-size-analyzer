@@ -2,13 +2,17 @@
 
 Python project for analyzing powder particle size distributions used in additive manufacturing and powder metallurgy.
 
+## Project Goal
+
+The goal of this project is to calculate and visualize basic particle size distribution parameters for metal powders used in additive manufacturing processes.
+
 ## Features
 
 - D10 / D50 / D90 calculation
 - Span calculation
 - Histogram plotting
-- Cumulative PSD curve
-- Powder quality interpretation
+- Cumulative particle size distribution curve
+- Basic powder quality interpretation
 
 ## Libraries
 
@@ -20,10 +24,15 @@ Python project for analyzing powder particle size distributions used in additive
 This project analyzes powder particle size data and visualizes the distribution using Python.
 
 Typical applications:
+
 - Laser Powder Bed Fusion (LPBF)
 - Powder metallurgy
-- Metal additive manufacturing# powder-size-analyzer
-Python project for analyzing powder particle size distributions used in additive manufacturing and powder metallurgy.
-## Project Goal
+- Metal additive manufacturing
 
-The goal of this project is to analyze powder particle size distributions commonly used in additive manufacturing and powder metallurgy processes.
+## Future Improvements
+
+- Import real CSV particle size data
+- Compare multiple powder batches
+- Add D10, D50, and D90 markers on plots
+- Add powder quality scoring
+- Estimate LPBF suitability

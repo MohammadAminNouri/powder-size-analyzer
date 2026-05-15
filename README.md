@@ -24,3 +24,6 @@ Typical applications:
 - Powder metallurgy
 - Metal additive manufacturing# powder-size-analyzer
 Python project for analyzing powder particle size distributions used in additive manufacturing and powder metallurgy.
+## Project Goal
+
+The goal of this project is to analyze powder particle size distributions commonly used in additive manufacturing and powder metallurgy processes.
